@@ -1,1 +1,1 @@
-# https://DERKET.github.io/rsschool-cv/cv
+# https://derket.github.io/rsschool-cv/
